@@ -1,0 +1,6 @@
+Talla: 15
+Referencia: 1
+Precio: 20000
+Talla: 20
+Referencia: 2
+Precio: 25000
