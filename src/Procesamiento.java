@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Procesamiento {
     static int total = 0;
-    static ArrayList<Producto> productos = new ArrayList<Producto>();
+    static ArrayList<Producto> productos = new ArrayList<>();
 
 
    static public void pagar(){
